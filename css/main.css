@@ -1,0 +1,36 @@
+header {
+	background-color: #A21416;
+}
+
+body {
+	background-color: black;
+}
+
+.cine-melon {
+	text-transform: uppercase;
+	padding: 10px;
+	text-align: center;
+	color: whitesmoke;
+	font-size: 30px;
+}
+
+.categories {
+	padding-top: 10px;
+	font-weight: 700;
+	font-size: 16px; 
+	color: white;
+}
+
+.btn {
+	display: inline-block;
+}
+
+.todas img{
+	display: inline-block;
+}
+
+.movies li{
+display: inline-block;
+margin: 10px;
+list-style: none;
+}
